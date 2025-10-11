@@ -1,3 +1,8 @@
+# Requirement of Search Algorithms / Techniques
+
+1. The first requirement is that it should causes motion
+2. The second requirement is that it should be systematic
+
 # Algorithm Categories and Their Types
 
 ## 1. Sorting Algorithms
