@@ -27,7 +27,6 @@ These use heuristics to guide the search more efficiently.
 - A* Search
 - Hill Climbing
 - Iterative Deepening A* (IDA*)
-
 - Linear Search
 - Binary Search
 
