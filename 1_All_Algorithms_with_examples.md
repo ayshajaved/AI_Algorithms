@@ -3,6 +3,9 @@
 1. The first requirement is that it should causes motion
 2. The second requirement is that it should be systematic
 
+## A state space is the set of all possible configurations (states) that can be reached from the initial state of a problem.
+A state space search algorithm explores these states to find a path from the initial state to a goal state.
+
 # Algorithm Categories and Their Types
 
 ## 1. Sorting Algorithms
